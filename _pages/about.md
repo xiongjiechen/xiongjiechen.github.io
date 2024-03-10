@@ -5,13 +5,13 @@ permalink: /
 subtitle: 
 
 profile:
-  align: right
+  align: middle
   image: XiongjieC02.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>CS417</p>
-    <p>Mile End Road</p>
-    <p>EECS, QMUL</p>
+    <p>Alan Turing building</p>
+    <p>Computer Science Research Centre</p>
+    <p>University of Surrey</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
