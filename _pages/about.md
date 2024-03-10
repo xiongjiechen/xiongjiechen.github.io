@@ -7,10 +7,10 @@ subtitle:
 profile:
   align: middle
   image: XiongjieC02.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Alan Turing building</p>
-    <p>Computer Science Research Centre</p>
+    <p>Stag Hill Campus</p>
     <p>University of Surrey</p>
 
 news: true  # includes a list of news items
