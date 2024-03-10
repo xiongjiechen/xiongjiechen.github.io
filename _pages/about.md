@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Xiongjie Chen is a postdoctoral researcher in [Computer Science Research Centre](https://www.surrey.ac.uk/computer-science-research-centre) at University of Surrey. 
+Xiongjie Chen is currently a postdoctoral researcher in [Computer Science Research Centre](https://www.surrey.ac.uk/computer-science-research-centre) at University of Surrey. 
 
 He received his PhD in Computer Science from [University of Surrey](https://www.surrey.ac.uk/) in 2023, supervised by [Dr Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li).His research is in the area of statistical machine learning (Bayesian inference and uncertainty quantification), sequential Monte Carlo methods, machine learning in dentistry, and optimal transport.
 
