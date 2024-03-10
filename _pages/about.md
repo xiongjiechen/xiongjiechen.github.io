@@ -9,7 +9,7 @@ profile:
   image: XiongjieC02.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Alan Turing building</p>
+    <p>26BB02, Alan Turing building</p>
     <p>Stag Hill Campus</p>
     <p>University of Surrey</p>
 
