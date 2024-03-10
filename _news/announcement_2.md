@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-03 00:00:00-0000
+date: 2023-11-09 00:00:00-0000
 inline: true
 ---
 
-PhenoApt was accepted by AJHG 🎉
+One paper accepted by Foundation of Data Science, American Institute of Mathematical Science 🎉
