@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-03 00:00:00-0000
+date: 2023-12-11 00:00:00-0000
 inline: true
 ---
 
-PhenoApt was accepted by AJHG 🎉
+Xiongjie passed his PhD viva 🎉
