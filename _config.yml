@@ -2,21 +2,21 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Dr Yongxin Yang # the website title (if blank, full name will be used instead)
-first_name: Yongxin
+title: Dr Xiongjie Chen # the website title (if blank, full name will be used instead)
+first_name: Xiongjie
 middle_name: #
-last_name: Yang
-email: yongxin.yang@qmul.ac.uk
+last_name: Chen
+email: xiongjie.chen@surrey.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 #  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-keywords: yongxin-yang, machine-learning, computational-finance  # add your own keywords or leave empty
+keywords: xiongjie-chen, machine-learning, computational-finance  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🍥  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://wool.github.io # the base hostname & protocol for your site
+url: https://xiongjiechen.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
