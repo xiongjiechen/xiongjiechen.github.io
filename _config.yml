@@ -71,11 +71,11 @@ twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: F7PtrL8AAAAJ # your Google Scholar ID
-ssrn_id: 5399249 # SSRN ID
+scholar_userid: Tb9fTOsAAAAJ # your Google Scholar ID
+ssrn_id: # SSRN ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
-orcid_id: 0000-0003-4134-8559 # your ORCID ID
+orcid_id: 0000-0001-5107-792X # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
