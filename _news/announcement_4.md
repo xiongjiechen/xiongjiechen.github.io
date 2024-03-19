@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-02-29 00:00:00-0000
+date: 2024-01-29 00:00:00-0000
 inline: true
 ---
 
-Xiongjie gave a talk about his work on Augmented Sliced Wasserstein Distance in CSML reading group at Imperial College (virtual talk). 
+Xiongjie presented his work on Normalising Flow-based Differentiable Particle Filter in Bellairs Workshop on Machine Learning and Statistical Signal Processing for Data on Graphs (on-site). 
