@@ -115,7 +115,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 blog_name: # yang-blog # blog_name will be displayed in your blog page
 blog_nav_title: # blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: # Yongxin Yang's Blog
+blog_description: # Xiongjie Chen's Blog
 permalink: # /blog/:year/:title/
 
 # Pagination
@@ -249,8 +249,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Yang]
-  first_name: [Yongxin]
+  last_name: [Chen]
+  first_name: [Xiongjie]
 
   style: apa
   locale: en
