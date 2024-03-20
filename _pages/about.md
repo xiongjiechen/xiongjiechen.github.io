@@ -22,6 +22,6 @@ Xiongjie Chen is currently a postdoctoral researcher in the [Computer Science Re
 
 He received his PhD in Computer Science from [University of Surrey](https://www.surrey.ac.uk/) in 2023, supervised by [Dr Yunpeng Li](https://www.surrey.ac.uk/people/yunpeng-li). His research is in the area of statistical machine learning (Bayesian inference and uncertainty quantification), sequential Monte Carlo methods, machine learning in dentistry, and optimal transport.
 
-Prior to joining UoS, he received his B.Sc. and M.Eng. degrees at Fujian University of Technology and Tongji University, respectively.
+Prior to joining the UoS, he received his B.Sc. and M.Eng. degrees at Fujian University of Technology and Tongji University, respectively.
 
 
